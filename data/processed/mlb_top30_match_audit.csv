@@ -1,0 +1,436 @@
+Org,PlayerName,name_norm,best_candidate_norm,best_score,second_score,accepted
+WSN,Erick Mejia,erick mejia,,70.0,60.0,False
+SDP,Jose Espada,jose espada,,58.33333333333333,58.33333333333333,False
+PHI,Daniel Robert,dan robert,,60.0,60.0,False
+NYM,Justin Hagenman,justin hagenman,,66.66666666666667,62.06896551724138,False
+ATH,Elvis Alvarado,elvis alvarado,,69.56521739130434,66.66666666666667,False
+ARI,Juan Morillo,juan morillo,,60.86956521739131,60.86956521739131,False
+TEX,Cole Winn,cole winn,,66.66666666666667,63.63636363636363,False
+SDP,Sean Reynolds,sean reynolds,,72.72727272727273,60.86956521739131,False
+CHW,Owen White,owen white,,73.6842105263158,66.66666666666667,False
+NYY,Yoendrys Gomez,yoendrys gomez,,64.0,58.06451612903225,False
+SEA,Carlos Vargas,carlos vargas,,80.0,72.0,False
+SDP,Eduarniel Nunez,eduarniel nunez,eduarniel nunez,100.0,60.0,True
+PHI,Michael Mercado,mike mercado,,64.0,61.53846153846154,False
+COL,Juan Mejia,juan mejia,,84.21052631578947,70.0,False
+CLE,Joey Cantillo,joey cantillo,,69.23076923076923,64.0,False
+PIT,Braxton Ashcraft,braxton ashcraft,,68.96551724137932,62.06896551724138,False
+SDP,Omar Cruz,omar cruz,,63.63636363636363,63.1578947368421,False
+COL,Luis Peralta,luis peralta,,83.33333333333334,76.19047619047619,False
+ATH,Carlos Duran,carlos duran,,74.07407407407408,71.42857142857143,False
+ATH,Carlos Duran,carlos duran,,74.07407407407408,71.42857142857143,False
+CIN,Lyon Richardson,lyon richardson,,64.28571428571428,62.5,False
+KCR,Jonathan Bowlan,jon bowlan,,66.66666666666667,63.63636363636363,False
+TEX,Luis Curvelo,luis curvelo,,66.66666666666667,66.66666666666667,False
+PIT,Mike Burrows,mike burrows,,69.56521739130434,60.86956521739131,False
+CLE,Erik Sabrowski,erik sabrowski,,53.333333333333336,52.17391304347826,False
+ATH,Jacob Lopez,jake lopez,,66.66666666666667,66.66666666666667,False
+ATH,Brady Basso,brady basso,,60.86956521739131,59.25925925925925,False
+CIN,Luis Mey,luis mey,,70.58823529411764,60.0,False
+SFG,Cole Waites,cole waites,,72.72727272727273,63.63636363636363,False
+CLE,Zak Kent,zak kent,,62.5,60.0,False
+MIL,Connor Thomas,connor thomas,,69.23076923076923,64.0,False
+PHI,Seth Johnson,seth johnson,,81.81818181818181,66.66666666666667,False
+DET,Tyler Owens,tyler owens,,66.66666666666667,61.53846153846154,False
+ATH,Anthony Maldonado,tony maldonado,,66.66666666666667,64.0,False
+DET,Sawyer Gipson-Long,sawyer gipson long,,55.172413793103445,51.61290322580645,False
+BAL,Kade Strowd,kade strowd,,57.14285714285714,57.14285714285714,False
+ARI,Andrew Saalfrank,andy saalfrank,,75.0,66.66666666666667,False
+CHC,Caleb Kilian,caleb kilian,,69.23076923076923,63.63636363636363,False
+WSN,Jackson Rutledge,jackson rutledge,,64.28571428571428,62.06896551724138,False
+WSN,Orlando Ribalta,orlando ribalta,,62.06896551724138,61.53846153846154,False
+ARI,Blake Walston,blake walston,,80.0,75.0,False
+COL,Bradley Blalock,brad blalock,,60.86956521739131,60.86956521739131,False
+CHW,Wikelman Gonzalez,wikelman gonzalez,,73.33333333333334,62.5,False
+CHW,Jairo Iriarte,jairo iriarte,jairo iriarte,100.0,58.33333333333333,True
+LAD,Edgardo Henriquez,edgardo henriquez,,60.60606060606061,60.60606060606061,False
+WSN,Cade Cavalli,cade cavalli,,61.53846153846154,60.86956521739131,False
+NYY,Clayton Beeter,clayton beeter,,61.53846153846154,59.25925925925925,False
+SFG,Carson Ragsdale,carson ragsdale,,66.66666666666667,66.66666666666667,False
+LAD,Kyle Hurt,kyle hurt,,66.66666666666667,57.14285714285714,False
+WSN,Cole Henry,cole henry,,69.56521739130434,66.66666666666667,False
+LAA,Jake Eder,jake eder,,70.0,66.66666666666667,False
+TBR,Eric Orze,eric orze,,69.56521739130434,66.66666666666667,False
+CIN,Connor Phillips,connor phillips,,80.0,66.66666666666667,False
+ATH,Justin Sterner,justin sterner,,69.23076923076923,68.96551724137932,False
+PHI,Mick Abel,mick abel,,63.63636363636363,60.0,False
+CIN,Yosver Zulueta,yosver zulueta,,55.172413793103445,52.17391304347826,False
+WSN,Zach Brzykcy,zach brzykcy,,57.14285714285714,57.14285714285714,False
+BAL,Brandon Young,brandon young,,71.42857142857143,71.42857142857143,False
+ATH,J.T. Ginn,j t ginn,,55.55555555555556,52.63157894736843,False
+KCR,Noah Murdock,noah murdock,,60.86956521739131,56.00000000000001,False
+TBR,Ian Seymour,ian seymour,,57.14285714285714,56.00000000000001,False
+WSN,Andry Lara,andry lara,,70.0,70.0,False
+ARI,Yilber Diaz,yilber diaz,,60.86956521739131,60.86956521739131,False
+STL,Gordon Graceffo,gordon graceffo,,64.0,55.172413793103445,False
+STL,Andre Granillo,andre granillo,,61.53846153846154,60.86956521739131,False
+MIA,Patrick Monteverde,pat monteverde,,58.33333333333333,57.14285714285714,False
+DET,Chase Lee,chase lee,,70.0,69.56521739130434,False
+STL,Matt Svanson,matt svanson,,64.0,57.14285714285714,False
+KCR,Andrew Hoffmann,andy hoffmann,,56.00000000000001,56.00000000000001,False
+TBR,Mason Montgomery,mason montgomery,,78.78787878787878,70.58823529411764,False
+CHW,Nick Nastrini,nick nastrini,,66.66666666666667,61.53846153846154,False
+SDP,Ryan Bergert,ryan bergert,,75.0,72.72727272727273,False
+BAL,Chayce McDermott,chayce mcdermott,,60.0,59.25925925925925,False
+STL,Michael McGreevy,mike mcgreevy,,58.33333333333333,58.33333333333333,False
+CHW,Sean Burke,sean burke,,73.6842105263158,66.66666666666667,False
+ATL,Dylan Dodd,dylan dodd,,58.33333333333333,54.54545454545454,False
+ATL,AJ Smith-Shawver,aj smith shawver,,66.66666666666667,61.53846153846154,False
+ATH,Grant Holman,grant holman,,64.28571428571428,64.0,False
+TBR,Joe Rock,joe rock,,75.0,66.66666666666667,False
+SFG,Carson Seymour,carson seymour,,66.66666666666667,64.51612903225806,False
+LAD,Ben Casparius,ben casparius,,64.0,58.06451612903225,False
+CHW,Mike Vasil,mike vasil,,66.66666666666667,66.66666666666667,False
+MIL,Chad Patrick,chad patrick,,58.33333333333333,58.33333333333333,False
+CLE,Doug Nikhazy,doug nikhazy,,50.0,50.0,False
+TEX,Jack Leiter,jack leiter,,76.19047619047619,72.72727272727273,False
+NYM,Dom Hamel,dom hamel,,66.66666666666667,57.14285714285714,False
+BOS,Richard Fitts,rick fitts,,63.63636363636363,58.33333333333333,False
+MIL,Carlos Rodriguez,carlos rodriguez,,86.66666666666667,78.78787878787878,False
+MIL,Carlos Rodriguez,carlos rodriguez,,86.66666666666667,78.78787878787878,False
+MIL,Carlos Rodriguez,carlos rodriguez,,86.66666666666667,78.78787878787878,False
+MIL,Carlos Rodriguez,carlos rodriguez,,86.66666666666667,78.78787878787878,False
+SFG,Mason Black,mason black,mason black,100.0,78.26086956521739,True
+MIN,Pierson Ohl,pierson ohl,,69.56521739130434,64.0,False
+MIN,Travis Adams,travis adams,,69.56521739130434,69.23076923076923,False
+NYY,Will Warren,will warren,,72.72727272727273,61.53846153846154,False
+KCR,Noah Cameron,noah cameron,,72.72727272727273,69.56521739130434,False
+DET,Jackson Jobe,jackson jobe,,75.0,72.0,False
+BOS,Hunter Dobbins,hunter dobbins,,64.28571428571428,61.53846153846154,False
+LAD,Jack Dreyer,jack dreyer,,72.72727272727273,60.86956521739131,False
+COL,Jaden Hill,jaden hill,,70.0,63.1578947368421,False
+BOS,Luis Guerrero,luis guerrero,,64.0,57.14285714285714,False
+LAD,Justin Wrobleski,justin wrobleski,,68.96551724137932,66.66666666666667,False
+HOU,Colton Gordon,colton gordon,,69.23076923076923,64.0,False
+ATH,Gunnar Hoglund,gunnar hoglund,gunnar hoglund,100.0,59.25925925925925,True
+ATH,Jack Perkins,jack perkins,,61.53846153846154,58.33333333333333,False
+LAA,Michael Darrell-Hicks,mike darrell hicks,,60.0,55.172413793103445,False
+LAA,Caden Dana,caden dana,,69.56521739130434,66.66666666666667,False
+COL,Zach Agnos,zach agnos,,63.1578947368421,63.1578947368421,False
+TOR,Mason Fluharty,mason fluharty,,66.66666666666667,64.0,False
+TBR,Paul Gervase,paul gervase,,61.53846153846154,53.84615384615385,False
+SDP,David Morgan,dave morgan,,69.56521739130434,63.63636363636363,False
+MIL,Jacob Misiorowski,jake misiorowski,,59.25925925925925,56.25,False
+CHW,Shane Smith,shane smith,,81.81818181818181,76.19047619047619,False
+NYM,Blade Tidwell,blade tidwell,blade tidwell,100.0,66.66666666666667,True
+ATH,Mason Barnett,mason barnett,mason barnett,100.0,66.66666666666667,True
+LAA,Garrett McDaniels,garrett mcdaniels,,68.75,60.0,False
+DET,Troy Melton,troy melton,,66.66666666666667,66.66666666666667,False
+MIA,Cade Gibson,cade gibson,,58.33333333333333,58.33333333333333,False
+TEX,Kumar Rocker,kumar rocker,,53.84615384615385,53.84615384615385,False
+CHC,Cade Horton,cade horton,,75.0,66.66666666666667,False
+MIA,Adam Mazur,adam mazur,,70.0,66.66666666666667,False
+WSN,Brad Lord,brad lord,,66.66666666666667,63.1578947368421,False
+NYY,Cam Schlittler,cam schlittler,,75.0,72.0,False
+ATH,Luis Morales,luis morales,,83.33333333333334,75.0,False
+COL,Seth Halvorsen,seth halvorsen,,64.0,59.25925925925925,False
+COL,Chase Dollander,chase dollander,,75.86206896551724,66.66666666666667,False
+ATL,Hurston Waldrep,hurston waldrep,,71.42857142857143,57.14285714285714,False
+SEA,Brandyn Garcia,brandyn garcia,brandyn garcia,100.0,64.28571428571428,True
+LAA,Mitch Farris,mitch farris,,64.0,60.86956521739131,False
+SEA,Logan Evans,logan evans,,69.23076923076923,66.66666666666667,False
+NYM,Brandon Sproat,brandon sproat,brandon sproat,100.0,68.96551724137932,True
+LAA,Jose Fermin,jose fermin,,72.72727272727273,72.72727272727273,False
+CHW,Grant Taylor,grant taylor,,66.66666666666667,66.66666666666667,False
+LAD,Roki Sasaki,roki sasaki,,56.00000000000001,54.54545454545454,False
+CIN,Chase Burns,chase burns,,63.63636363636363,57.14285714285714,False
+BAL,Gerald Ogando,gerald ogando,,66.66666666666667,64.28571428571428,False
+CIN,Dalvin Rosario,dalvin rosario,,80.0,71.42857142857143,False
+ATL,Jorge Juan,jorge juan,,76.19047619047619,75.0,False
+CLE,Steven Perez,steve perez,,64.0,61.53846153846154,False
+ATL,Royber Salinas,royber salinas,,64.0,59.25925925925925,False
+STL,Hancel Rincon,hancel rincon,,72.0,68.96551724137932,False
+ARI,Listher Sosa,listher sosa,,60.86956521739131,56.00000000000001,False
+ARI,Edgar Isea,edgar isea,,60.86956521739131,57.14285714285714,False
+NYY,Luis Velasquez,luis velasquez,,75.86206896551724,66.66666666666667,False
+NYM,Anthony Nunez,tony nunez,,80.0,66.66666666666667,False
+DET,Yosber Sanchez,yosber sanchez,,60.0,56.00000000000001,False
+SEA,Gabriel Sosa,gabriel sosa,,71.42857142857143,71.42857142857143,False
+STL,Sem Robberse,sem robberse,,58.33333333333333,53.84615384615385,False
+TBR,Ben Peoples,ben peoples,,63.1578947368421,58.33333333333333,False
+LAD,Nick Frasso,nick frasso,,66.66666666666667,56.00000000000001,False
+BOS,Luis Perales,luis perales,luis perales,100.0,76.19047619047619,True
+HOU,Alex Santos II,alex santos,,66.66666666666667,63.63636363636363,False
+ATH,Stevie Emanuels,stevie emanuels,,62.06896551724138,61.53846153846154,False
+PIT,Po-Yu Chen,po yu chen,,63.63636363636363,57.14285714285714,False
+SFG,Braxton Roxby,braxton roxby,,66.66666666666667,59.25925925925925,False
+NYY,Carson Coleman,carson coleman,,73.33333333333334,69.23076923076923,False
+TBR,Evan Reifert,evan reifert,,60.86956521739131,56.00000000000001,False
+BAL,Kyle Brnovich,kyle brnovich,,56.00000000000001,56.00000000000001,False
+LAA,Jack Dashwood,jack dashwood,,54.54545454545454,52.17391304347826,False
+STL,Jose Davila,jose davila,,66.66666666666667,63.63636363636363,False
+MIN,Alejandro Hidalgo,alejandro hidalgo,,70.58823529411764,66.66666666666667,False
+DET,Wilmer Flores,wilmer flores,,64.0,61.53846153846154,False
+PIT,Brandan Bidois,brandan bidois,,73.33333333333334,61.53846153846154,False
+TEX,Josh Stephan,josh stephan,,66.66666666666667,64.0,False
+CIN,Jose Acuna,jose acuna,,66.66666666666667,60.86956521739131,False
+TEX,Aidan Curry,aidan curry,,69.56521739130434,60.86956521739131,False
+MIL,Yerlin Rodriguez,yerlin rodriguez,,78.78787878787878,75.0,False
+TEX,Adrian Rodriguez,adrian rodriguez,,83.87096774193549,80.0,False
+TEX,Adrian Rodriguez,adrian rodriguez,,83.87096774193549,80.0,False
+TEX,Adrian Rodriguez,adrian rodriguez,,83.87096774193549,80.0,False
+PHI,Eiberson Castellano,eiberson castellano,,64.70588235294117,60.60606060606061,False
+LAD,Jose Rodriguez,jose rodriguez,,89.65517241379311,82.75862068965517,False
+LAD,Jose Rodriguez,jose rodriguez,,89.65517241379311,82.75862068965517,False
+LAD,Jose Rodriguez,jose rodriguez,,89.65517241379311,82.75862068965517,False
+LAD,Jose Rodriguez,jose rodriguez,,89.65517241379311,82.75862068965517,False
+TBR,Yoniel Curet,yoniel curet,yoniel curet,100.0,58.33333333333333,True
+BAL,Juan Nunez,juan nunez,,72.72727272727273,72.0,False
+BAL,Juan Nunez,juan nunez,,72.72727272727273,72.0,False
+NYM,Joel Diaz,joel diaz,,70.0,60.0,False
+BAL,Yaqui Rivera,yaqui rivera,,72.72727272727273,58.33333333333333,False
+CLE,Yorman Gomez,yorman gomez,,60.86956521739131,59.25925925925925,False
+TBR,Alexander Alberto,alex alberto,alex alberto,100.0,88.0,True
+STL,Randel Clemente,randel clemente,,60.60606060606061,59.25925925925925,False
+COL,Jordy Vargas,jordy vargas,,84.61538461538461,66.66666666666667,False
+ARI,Ricardo Yan,ricardo yan,,88.0,66.66666666666667,False
+NYM,Felipe De La Cruz,felipe de la cruz,,66.66666666666667,64.70588235294117,False
+PHI,Jaydenn  Estanista,jaydenn estanista,,60.0,55.172413793103445,False
+BOS,Jedixson Paez,jedixson paez,jedixson paez,100.0,54.54545454545454,True
+LAA,Keythel Key,keythel key,,57.14285714285714,56.00000000000001,False
+LAA,Yendy Gomez,yendy gomez,,72.72727272727273,56.00000000000001,False
+CHW,Jarold Rosado,jarold rosado,,66.66666666666667,64.0,False
+NYY,Luis Serna,luis serna,,84.21052631578947,72.72727272727273,False
+SDP,Henry Baez,hank baez,hank baez,100.0,73.6842105263158,True
+MIA,Jhoniel Serrano,jhoniel serrano,,76.92307692307692,66.66666666666667,False
+TOR,Kendry Rojas,kendry rojas,kendry rojas,100.0,69.23076923076923,True
+SDP,Andrew Moore,andy moore,,76.19047619047619,70.0,False
+DET,Gabriel Reyes,gabriel reyes,,75.86206896551724,74.07407407407408,False
+NYM,Luis Alvarez,luis alvarez,,76.19047619047619,76.19047619047619,False
+TEX,Ismael Agreda,ismael agreda,,60.86956521739131,58.06451612903225,False
+NYY,Michael Arias,mike arias,,69.56521739130434,66.66666666666667,False
+TBR,Austin Vernon,austin vernon,,88.0,78.57142857142857,False
+KCR,Tyson Guerrero,tyson guerrero,,71.42857142857143,60.0,False
+PHI,Andrew Baker,andy baker,,72.72727272727273,72.72727272727273,False
+NYM,Luis R. Rodriguez,luis r rodriguez,,80.0,77.41935483870968,False
+TBR,Logan Workman,logan workman,,72.0,64.0,False
+ATH,Ryan Cusick,ryan cusick,,66.66666666666667,66.66666666666667,False
+CHW,Tanner McDougal,tanner mcdougal,tanner mcdougal,100.0,66.66666666666667,True
+BAL,Alex Pham,alex pham,,57.14285714285714,57.14285714285714,False
+CHC,Riley Martin,riley martin,,66.66666666666667,66.66666666666667,False
+STL,Austin Love,austin love,,86.95652173913044,72.0,False
+NYM,Raimon Gomez,raimon gomez,,72.0,72.0,False
+TEX,Mitch Bratt,mitch bratt,mitch bratt,100.0,66.66666666666667,True
+LAD,Ronan Kopp,ronan kopp,,60.0,54.54545454545454,False
+DET,RJ Petit,rj petit,rj petit,100.0,50.0,True
+CLE,Will Dion,will dion,,70.0,66.66666666666667,False
+CHC,Zac Leigh,zac leigh,,66.66666666666667,58.82352941176471,False
+CIN,Kevin Abel,kevin abel,,70.0,69.56521739130434,False
+KCR,Eric Cerantola,eric cerantola,,64.28571428571428,59.25925925925925,False
+DET,Tyler Mattison,tyler mattison,,69.23076923076923,64.28571428571428,False
+CLE,Franco Aleman,franco aleman,,69.23076923076923,64.0,False
+TEX,Robby Ahlstrom,robby ahlstrom,,58.33333333333333,50.0,False
+TBR,Jack Hartman,jack hartman,,61.53846153846154,60.86956521739131,False
+KCR,Shane Panzini,shane panzini,,64.0,57.14285714285714,False
+LAD,Reynaldo Yean,reynaldo yean,,64.0,62.06896551724138,False
+CLE,Kendeglys Virguez,kendeglys virguez,,60.0,57.14285714285714,False
+KCR,Yunior Marte,yunior marte,yunior marte,100.0,63.63636363636363,True
+KCR,Yunior Marte,yunior marte,yunior marte,100.0,63.63636363636363,True
+DET,Joseph Montalvo,joe montalvo,,60.86956521739131,60.0,False
+NYM,Jose Chirinos,jose chirinos,,69.23076923076923,66.66666666666667,False
+ATH,Richard Fernandez,rick fernandez,,64.28571428571428,64.28571428571428,False
+PHI,Juan Amarante,juan amarante,,66.66666666666667,66.66666666666667,False
+CHW,Aldrin Batista,aldrin batista,aldrin batista,100.0,59.25925925925925,True
+TEX,Enrique Segura,enrique segura,,62.06896551724138,60.86956521739131,False
+NYY,Hansel Rosario,hansel rosario,,73.33333333333334,71.42857142857143,False
+NYM,Wellington Aracena,wellington aracena,wellington aracena,100.0,70.58823529411764,True
+STL,Leonel Sequera,leonel sequera,,59.25925925925925,57.14285714285714,False
+LAD,Sean Paul Linan,sean paul linan,sean paul linan,100.0,64.0,True
+HOU,Wilmy Sanchez,wilmy sanchez,,64.0,57.14285714285714,False
+NYY,Elmer Rodriguez-Cruz,elmer rodriguez cruz,,85.71428571428572,72.22222222222221,False
+NYY,Franyer Herrera,franyer herrera,,64.51612903225806,58.82352941176471,False
+LAA,Carlos Espinosa,carlos espinosa,,68.96551724137932,68.75,False
+KCR,Yeri Perez,yeri perez,,58.33333333333333,57.14285714285714,False
+HOU,Juan Bello,juan bello,,70.0,66.66666666666667,False
+CLE,Jogly Garcia,jogly garcia,,68.96551724137932,64.28571428571428,False
+STL,Yordy Herrera,yordy herrera,,68.96551724137932,62.06896551724138,False
+CIN,Ovis Portes,ovis portes,,60.86956521739131,60.86956521739131,False
+TOR,Anders Tolhurst,anders tolhurst,,62.06896551724138,62.06896551724138,False
+MIA,Dale Stanavich,dale stanavich,,61.53846153846154,59.25925925925925,False
+MIA,Josh White,josh white,,73.6842105263158,70.0,False
+MIA,Jacob Miller,jake miller,jake miller,100.0,72.72727272727273,True
+MIA,Jacob Miller,jake miller,jake miller,100.0,72.72727272727273,True
+SFG,Liam Simon,liam simon,,57.14285714285714,57.14285714285714,False
+WSN,Tyler Stuart,tyler stuart,,66.66666666666667,64.28571428571428,False
+WSN,Marquis Grissom Jr.,marquis grissom,,59.25925925925925,58.06451612903225,False
+PIT,Cy Nielson,cy nielson,,57.14285714285714,54.54545454545454,False
+TBR,Marcus Johnson,marcus johnson,,75.86206896551724,69.23076923076923,False
+TEX,Wilian Bormie,wilian bormie,,62.06896551724138,58.33333333333333,False
+SDP,Braden Nett,braden nett,braden nett,100.0,66.66666666666667,True
+CHW,Mason Adams,mason adams,mason adams,100.0,76.19047619047619,True
+ARI,Dylan Ray,dylan ray,,76.19047619047619,73.6842105263158,False
+LAD,Chris Campos,chris campos,,58.33333333333333,53.84615384615385,False
+ARI,Spencer Giesting,spencer giesting,,68.96551724137932,62.06896551724138,False
+SFG,Jack Choate,jack choate,,72.72727272727273,69.56521739130434,False
+BOS,Dalton Rogers,dalton rogers,,66.66666666666667,64.0,False
+MIA,William Kempner,will kempner,,66.66666666666667,63.63636363636363,False
+BAL,Cameron Weston,cameron weston,,69.23076923076923,69.23076923076923,False
+BAL,Trace Bright,trace bright,,54.54545454545454,54.54545454545454,False
+CHW,Eric Adler,eric adler,,60.86956521739131,58.33333333333333,False
+BOS,David Sandlin,dave sandlin,dave sandlin,100.0,61.53846153846154,True
+TBR,Trevor Martin,trevor martin,,78.57142857142857,69.23076923076923,False
+CIN,Kenya Huggins,kenya huggins,kenya huggins,100.0,63.63636363636363,True
+CIN,Adam Serwinowski,adam serwinowski,adam serwinowski,100.0,56.25,True
+TOR,Ryan Jennings,ryan jennings,,64.0,59.25925925925925,False
+TBR,Dylan Lesko,dylan lesko,,66.66666666666667,66.66666666666667,False
+LAD,Lucas Wepf,lucas wepf,,63.63636363636363,54.54545454545454,False
+CHW,Tyler Schweitzer,tyler schweitzer,tyler schweitzer,100.0,70.96774193548387,True
+WSN,Jake Bennett,jake bennett,jake bennett,100.0,69.23076923076923,True
+SFG,Marques Johnson,marques johnson,,73.33333333333334,66.66666666666667,False
+CHW,Peyton Pallette,peyton pallette,peyton pallette,100.0,57.14285714285714,True
+STL,Max Rajcic,max rajcic,,54.54545454545454,50.0,False
+SDP,Cole Paplham,cole paplham,,66.66666666666667,63.63636363636363,False
+STL,Pete Hansen,pete hansen,,72.72727272727273,69.56521739130434,False
+WSN,Riley Cornelio,riley cornelio,,64.28571428571428,64.0,False
+BOS,Alex Hoppe,alex hoppe,,66.66666666666667,54.54545454545454,False
+PIT,Dominic Perachi,dominic perachi,,71.42857142857143,68.96551724137932,False
+LAD,Jared Karros,jared karros,,69.56521739130434,66.66666666666667,False
+HOU,Michael Knorr,mike knorr,,76.19047619047619,66.66666666666667,False
+HOU,Andrew Taylor,andy taylor,,78.26086956521739,69.56521739130434,False
+KCR,Henry Williams,hank williams,,80.0,78.57142857142857,False
+MIN,Darren Bowen,darren bowen,,63.63636363636363,58.33333333333333,False
+CHW,Noah Schultz,noah schultz,noah schultz,100.0,69.23076923076923,True
+TBR,Yereny Teus,yereny teus,,56.00000000000001,56.00000000000001,False
+LAD,Luis Carias,luis carias,,80.0,70.0,False
+LAD,Samuel Sanchez,sam sanchez,,78.26086956521739,72.0,False
+LAA,Francis Texido,francis texido,,69.23076923076923,64.51612903225806,False
+COL,Sandy Ozuna,sandy ozuna,,60.86956521739131,57.14285714285714,False
+LAA,Yeferson Vargas,yeferson vargas,,61.53846153846154,60.0,False
+ATH,Yunior Tur,yunior tur,,72.72727272727273,54.54545454545454,False
+MIA,Janero Miller,janero miller,,83.33333333333334,72.0,False
+TBR,Jackson Lancaster,jackson lancaster,,68.96551724137932,66.66666666666667,False
+ATL,Luis Arestigueta,luis arestigueta,,64.0,62.06896551724138,False
+BOS,Jose Bello,jose bello,,69.56521739130434,69.56521739130434,False
+LAD,Marlon Nieves,marlon nieves,,69.23076923076923,64.28571428571428,False
+TEX,Kohl Drake,kohl drake,kohl drake,100.0,54.54545454545454,True
+CLE,Michael Kennedy,mike kennedy,,66.66666666666667,59.25925925925925,False
+CLE,Jackson  Humphries,jackson humphries,,70.96774193548387,68.96551724137932,False
+SEA,Jeter Martinez,jeter martinez,jeter martinez,100.0,82.75862068965517,True
+PIT,David Matoma,dave matoma,,69.56521739130434,63.63636363636363,False
+MIN,Jacob Wosinski,jake wosinski,,58.33333333333333,58.33333333333333,False
+LAD,Jose Vasquez,jose vasquez,,66.66666666666667,64.0,False
+SFG,Brayan Narvaez,brayan narvaez,,64.28571428571428,59.25925925925925,False
+MIA,Yohanfer Santana,yohanfer santana,,60.0,58.06451612903225,False
+TEX,Michael Valverde,mike valverde,,64.0,64.0,False
+MIN,Kyle Bischoff,kyle bischoff,,64.28571428571428,61.53846153846154,False
+SEA,Ashton Izzi,ashton izzi,ashton izzi,100.0,54.54545454545454,True
+DET,Tanner Kohlhepp,tanner kohlhepp,,60.0,60.0,False
+LAA,Camden Minacci,camden minacci,,66.66666666666667,64.0,False
+ARI,Hayden Durke,hayden durke,,69.23076923076923,66.66666666666667,False
+ARI,Roman Angelo,roman angelo,,61.53846153846154,60.86956521739131,False
+TEX,Skylar Hales,skylar hales,,59.25925925925925,56.00000000000001,False
+TEX,Ryan Lobus,ryan lobus,,70.0,63.63636363636363,False
+PIT,Carlson Reed,carlson reed,,66.66666666666667,66.66666666666667,False
+HOU,Colby Langford,colby langford,,53.84615384615385,51.85185185185186,False
+CHW,Carson Jacobs,carson jacobs,,78.26086956521739,69.56521739130434,False
+STL,Jacob Odle,jake odle,,70.0,63.63636363636363,False
+ARI,Kyle Amendt,kyle amendt,,60.86956521739131,60.0,False
+CLE,Matt Jachec,matt jachec,,63.63636363636363,61.53846153846154,False
+MIL,K.C. Hunt,k c hunt,,60.0,54.54545454545454,False
+TOR,Bo Bonds,bo bonds,,63.1578947368421,63.1578947368421,False
+ATH,Will Johnston,will johnston,will johnston,100.0,69.56521739130434,True
+CHW,Seth Keener,seth keener,,64.0,63.63636363636363,False
+CHW,Christian Oppor,christian oppor,christian oppor,100.0,66.66666666666667,True
+PIT,Jaden Woods,jaden woods,,70.0,61.53846153846154,False
+MIL,Tate Kuehner,tate kuehner,,66.66666666666667,66.66666666666667,False
+ARI,Junior Ciprian,junior ciprian,,59.25925925925925,57.14285714285714,False
+BAL,Ty Weatherly,ty weatherly,,64.0,58.33333333333333,False
+BAL,Kiefer Lord,kiefer lord,,60.86956521739131,56.00000000000001,False
+COL,Isaiah Coupet,isaiah coupet,,56.00000000000001,54.54545454545454,False
+COL,Jack Mahoney,jack mahoney,,72.72727272727273,69.56521739130434,False
+COL,Jack Mahoney,jack mahoney,,72.72727272727273,69.56521739130434,False
+CLE,Matt Wilkinson,matt wilkinson,,66.66666666666667,64.28571428571428,False
+CIN,Cody Adcock,cody adcock,,63.63636363636363,54.54545454545454,False
+SFG,Cale Lansville,cale lansville,,64.28571428571428,64.0,False
+MIA,Nigel Belgrave,nigel belgrave,,61.53846153846154,59.25925925925925,False
+ATH,Kade Morris,kade morris,kade morris,100.0,81.81818181818181,True
+TBR,Owen Wild,owen wild,,60.0,57.14285714285714,False
+TOR,Juaron Watts-Brown,juaron watts brown,juaron watts brown,100.0,60.0,True
+MIL,Brett Wichrowski,brett wichrowski,,59.25925925925925,58.06451612903225,False
+MIL,Ryan Birchard,ryan birchard,,66.66666666666667,64.0,False
+TOR,Kai Peterson,kai peterson,,81.4814814814815,66.66666666666667,False
+ARI,Sam Knowlton,sam knowlton,,64.0,53.84615384615385,False
+PIT,Khristian Curtis,khristian curtis,,68.96551724137932,58.06451612903225,False
+BOS,Jojo Ingrassia,jojo ingrassia,,51.85185185185186,51.61290322580645,False
+BAL,Michael Forret,mike forret,mike forret,100.0,63.63636363636363,True
+NYY,Ben Shields,ben shields,,78.26086956521739,73.6842105263158,False
+CHC,Nick Dean,nick dean,,72.72727272727273,63.63636363636363,False
+BAL,Zach Fruit,zach fruit,,73.6842105263158,60.86956521739131,False
+TBR,Drew Dowd,drew dowd,,57.14285714285714,55.55555555555556,False
+LAD,Eriq Swan,eriq swan,eriq swan,100.0,60.0,True
+TOR,Grant Rogers,grant rogers,,64.28571428571428,58.33333333333333,False
+ATH,Steven Echavarria,steve echavarria,steve echavarria,100.0,74.28571428571429,True
+NYY,Chris Kean,chris kean,,66.66666666666667,66.66666666666667,False
+DET,Paul Wilson,paul wilson,,59.25925925925925,58.33333333333333,False
+CIN,Adrian Herrera,adrian herrera,,66.66666666666667,61.53846153846154,False
+LAD,Alex Makarewich,alex makarewich,,62.06896551724138,53.333333333333336,False
+LAD,Wyatt Crowell,wyatt crowell,,69.56521739130434,56.00000000000001,False
+STL,Branneli Franco,branneli franco,,66.66666666666667,62.06896551724138,False
+MIN,Yoel Roque,yoel roque,,63.63636363636363,59.25925925925925,False
+WSN,Jose Feliz,jose feliz,,69.56521739130434,66.66666666666667,False
+MIA,Kifraidy Encarnacion,kifraidy encarnacion,,56.25,54.54545454545454,False
+HOU,Anderson Brito,anderson brito,anderson brito,100.0,71.42857142857143,True
+SDP,Luis Maracara,luis maracara,,56.00000000000001,56.00000000000001,False
+COL,Gregory Sanchez,greg sanchez,,69.23076923076923,69.23076923076923,False
+BOS,Yhoiker Fajardo,yhoiker fajardo,yhoiker fajardo,100.0,61.53846153846154,True
+PIT,Reinold Navarro,reinold navarro,,59.25925925925925,57.14285714285714,False
+MIA,Manuel Genao,manuel genao,,60.86956521739131,56.00000000000001,False
+MIA,Jose Paulino,jose paulino,,69.56521739130434,69.23076923076923,False
+MIA,Jose Paulino,jose paulino,,69.56521739130434,69.23076923076923,False
+SDP,Manuel Davila,manuel davila,,61.53846153846154,60.86956521739131,False
+LAD,Oliver Gonzalez,oliver gonzalez,,73.33333333333334,71.42857142857143,False
+STL,Reiner Lopez,reiner lopez,,60.86956521739131,58.33333333333333,False
+LAD,Sterling Patick,sterling patick,,71.42857142857143,55.172413793103445,False
+ARI,Grayson Hitt,grayson hitt,,64.28571428571428,63.63636363636363,False
+SEA,Hunter Cranton,hunter cranton,hunter cranton,100.0,69.23076923076923,True
+LAA,Fulton Lockhart,fulton lockhart,,55.172413793103445,55.172413793103445,False
+LAA,Najer Victor,najer victor,,75.0,69.56521739130434,False
+CLE,Caden Favors,caden favors,,66.66666666666667,62.06896551724138,False
+MIN,Omar Montano,omar montano,,66.66666666666667,56.00000000000001,False
+CHW,Pierce George,pierce george,,66.66666666666667,61.53846153846154,False
+CHW,Hagen Smith,hagen smith,hagen smith,100.0,76.19047619047619,True
+SDP,Josh Mallitz,josh mallitz,,56.00000000000001,54.54545454545454,False
+SDP,Tyson Neighbors,tyson neighbors,,69.23076923076923,59.25925925925925,False
+ATL,Logan Samuels,logan samuels,,64.0,60.86956521739131,False
+DET,Josh Randall,josh randall,,61.53846153846154,60.86956521739131,False
+LAD,Aidan Foeller,aidan foeller,,80.0,64.0,False
+HOU,Twine Palmer,twine palmer,,63.63636363636363,59.25925925925925,False
+NYM,Frank Elissalt,frank elissalt,,71.42857142857143,64.0,False
+SEA,Brock Moore,brock moore,,69.56521739130434,60.86956521739131,False
+BOS,Blake Aita,blake aita,,60.0,60.0,False
+BAL,Chase Allsup,chase allsup,,58.33333333333333,53.84615384615385,False
+LAD,Brooks Auger,brooks auger,,58.33333333333333,57.14285714285714,False
+KCR,A.J. Causey,a j causey,,58.33333333333333,54.54545454545454,False
+SEA,Jurrangelo Cijntje,jurrangelo cijntje,jurrangelo cijntje,100.0,51.61290322580645,True
+KCR,Dennis Colleran,dennis colleran,,59.25925925925925,57.14285714285714,False
+NYM,Nate Dohm,nate dohm,nate dohm,100.0,60.0,True
+ARI,Connor Foley,connor foley,,72.0,59.25925925925925,False
+TEX,David Hagaman,dave hagaman,dave hagaman,100.0,60.86956521739131,True
+COL,Lebarron Johnson Jr.,lebarron johnson,,77.41935483870968,71.42857142857143,False
+ATH,Gage Jump,gage jump,gage jump,100.0,55.55555555555556,True
+KCR,L.P. Langevin,l p langevin,,56.00000000000001,52.17391304347826,False
+MIA,Aiden May,aiden may,,66.66666666666667,66.66666666666667,False
+SFG,Niko Mazza,niko mazza,,54.54545454545454,52.63157894736843,False
+BOS,Matt McShane,matt mcshane,,60.86956521739131,58.33333333333333,False
+MIN,Cole Peschl,cole peschl,,70.0,60.86956521739131,False
+HOU,Parker Smith,parker smith,,72.72727272727273,69.56521739130434,False
+TOR,Khal Stephen,khal stephen,khal stephen,100.0,69.56521739130434,True
+ATH,Sam Stuhr,sam stuhr,,72.72727272727273,70.58823529411764,False
+CIN,Mike Villani,mike villani,,60.86956521739131,60.86956521739131,False
+MIL,Jack Hostetler,jack hostetler,,64.0,60.86956521739131,False
+ATL,Raudy Reyes,raudy reyes,,66.66666666666667,57.14285714285714,False
+SFG,Drake George,drake george,,63.63636363636363,59.25925925925925,False
+LAD,Logan Tabeling,logan tabeling,,61.53846153846154,59.25925925925925,False
+SFG,Hunter Dryden,hunter dryden,,66.66666666666667,64.0,False
+BOS,Brandon Clarke,brandon clarke,brandon clarke,100.0,69.23076923076923,True
+SDP,Boston Bateman,boston bateman,boston bateman,100.0,74.07407407407408,True
+LAD,Brady Smith,brady smith,,76.19047619047619,72.72727272727273,False
+TEX,Maicol Reyes,maicol reyes,,64.0,63.63636363636363,False
+TEX,Enyel Lopez,enyel lopez,,66.66666666666667,60.86956521739131,False
+CLE,Chase Mobley,chase mobley,,69.56521739130434,66.66666666666667,False
+ATH,Cole Miller,cole miller,cole miller,100.0,72.72727272727273,True
+SDP,Carlos Alvarez,carlos alvarez,,66.66666666666667,64.28571428571428,False
+MIA,Adrian  Pena,adrian pena,,76.19047619047619,69.56521739130434,False
+MIN,Santiago Castellanos,santiago castellanos,,57.14285714285714,56.25,False
+MIA,Pedro Montero,pedro montero,,56.00000000000001,56.00000000000001,False
+MIA,Eiver Mosquera,eiver mosquera,,58.33333333333333,57.14285714285714,False
