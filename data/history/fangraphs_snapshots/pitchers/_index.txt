@@ -1,0 +1,8 @@
+pitchers_2022.CSV
+pitchers_2023.CSV
+pitchers_2024.CSV
+pitchers_2025.CSV
+pitchers_20250203.CSV
+pitchers_20260203.CSV
+pitchers_20260204.CSV
+
