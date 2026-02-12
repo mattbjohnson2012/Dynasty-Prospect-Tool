@@ -1,0 +1,7 @@
+hitters_2022.CSV
+hitters_2023.CSV
+hitters_2024.CSV
+hitters_2025.CSV
+hitters_20250203.CSV
+hitters_20260203.CSV
+hitters_20260204.CSV
